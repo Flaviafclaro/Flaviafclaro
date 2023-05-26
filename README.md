@@ -1,4 +1,5 @@
-### Hi there 👋
+![Header](./github-header-image1.png)
+
 # 💫 About Me:
 🔭 Estudando: Python, Machine Learning, Data Science, Analytics<br><br>💡 Formação: Tecnologia em Banco de Dados<br><br>📫 E-mail: flaviafclaro@gmail.com
 
